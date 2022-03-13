@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QedFdwWLVz9jFLf1d0CwmgTL0zNaFwKQeJ6/1ohJIMNYdK9k6Xp29PstI8SEhxV99dLP0YrKCrtF7m6ZtnE8yw==",
+  "dgSpecHash": "FUPg4FOX3oFn9DI69DUkhZ6zlGdYmgawimi9nGUxFWM+h+sjRvaqSFAqWvpx5NzBjlvslBLzbS0kGUl7PqwVHQ==",
   "success": true,
-  "projectFilePath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+  "projectFilePath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj",
   "expectedPackageFiles": [
     "/Users/megsoftdev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/megsoftdev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

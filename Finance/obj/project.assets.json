@@ -353,11 +353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+      "projectUniqueName": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj",
       "projectName": "Finance",
-      "projectPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+      "projectPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj",
       "packagesPath": "/Users/megsoftdev/.nuget/packages/",
-      "outputPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/obj/",
+      "outputPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/megsoftdev/.config/NuGet/NuGet.Config"

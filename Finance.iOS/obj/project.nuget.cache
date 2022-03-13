@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B12ziHzDhDD7gDRMB1o3J7ZWiSpWxssqeMPqZI+peQgF6Gj8+UixWrkuTVG6rPyvqYL40BMzSsKyDXHA5g5KLQ==",
+  "dgSpecHash": "ERSFeHsuK9fcaglp8epvJjK7UF7d9tdnB9lQBuXUI10AJfQgBA1r4h//4oPYp2pt01c7Tvma2lGcT/mqe+8LBg==",
   "success": true,
-  "projectFilePath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.iOS/Finance.iOS.csproj",
+  "projectFilePath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.iOS/Finance.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/megsoftdev/.nuget/packages/xamarin.forms/3.1.0.697729/xamarin.forms.3.1.0.697729.nupkg.sha512"
   ],

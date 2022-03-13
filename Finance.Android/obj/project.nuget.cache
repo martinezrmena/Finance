@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vI7tipS0c6R9WmLp3o9KhMWiY/tbJPQD6dFrfNuJH4jKVj8Eg4puRsKKvPda5nIobGBJSuhCO9w4XZoNqyTb3Q==",
+  "dgSpecHash": "COZSy5fjMPnL8/GTN6ikJvzOUT5K1VadOlS76uyM1dT53xUhBiPaAapWJa26p/uuTabXgHOtGWOm0Iv7JwwkAA==",
   "success": true,
-  "projectFilePath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj",
+  "projectFilePath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.Android/Finance.Android.csproj",
   "expectedPackageFiles": [
     "/Users/megsoftdev/.nuget/packages/xamarin.android.arch.core.common/1.0.0.1/xamarin.android.arch.core.common.1.0.0.1.nupkg.sha512",
     "/Users/megsoftdev/.nuget/packages/xamarin.android.arch.lifecycle.common/1.0.3.1/xamarin.android.arch.lifecycle.common.1.0.3.1.nupkg.sha512",

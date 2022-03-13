@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj": {}
+    "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.Android/Finance.Android.csproj": {}
   },
   "projects": {
-    "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj": {
+    "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.Android/Finance.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj",
+        "projectUniqueName": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.Android/Finance.Android.csproj",
         "projectName": "Finance.Android",
-        "projectPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj",
+        "projectPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.Android/Finance.Android.csproj",
         "packagesPath": "/Users/megsoftdev/.nuget/packages/",
-        "outputPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.Android/obj/",
+        "outputPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "monoandroid81": {
             "projectReferences": {
-              "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj": {
-                "projectPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj"
+              "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj": {
+                "projectPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj": {
+    "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+        "projectUniqueName": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj",
         "projectName": "Finance",
-        "projectPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+        "projectPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj",
         "packagesPath": "/Users/megsoftdev/.nuget/packages/",
-        "outputPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/obj/",
+        "outputPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/megsoftdev/.config/NuGet/NuGet.Config"

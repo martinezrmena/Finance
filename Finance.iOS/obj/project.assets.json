@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.iOS/Finance.iOS.csproj",
+      "projectUniqueName": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.iOS/Finance.iOS.csproj",
       "projectName": "Finance.iOS",
-      "projectPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.iOS/Finance.iOS.csproj",
+      "projectPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.iOS/Finance.iOS.csproj",
       "packagesPath": "/Users/megsoftdev/.nuget/packages/",
-      "outputPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance.iOS/obj/",
+      "outputPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -744,8 +744,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj": {
-              "projectPath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj"
+            "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj": {
+              "projectPath": "/Users/megsoftdev/Documents/Projects/Udemy Course/Finance/Finance/Finance.csproj"
             }
           }
         }
