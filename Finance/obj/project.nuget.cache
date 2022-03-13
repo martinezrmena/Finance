@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QedFdwWLVz9jFLf1d0CwmgTL0zNaFwKQeJ6/1ohJIMNYdK9k6Xp29PstI8SEhxV99dLP0YrKCrtF7m6ZtnE8yw==",
+  "success": true,
+  "projectFilePath": "/Users/megsoftdev/Downloads/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+  "expectedPackageFiles": [
+    "/Users/megsoftdev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/megsoftdev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/megsoftdev/.nuget/packages/xamarin.forms/3.1.0.697729/xamarin.forms.3.1.0.697729.nupkg.sha512"
+  ],
+  "logs": []
+}
