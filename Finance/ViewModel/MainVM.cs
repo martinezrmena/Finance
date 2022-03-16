@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
 using System.Net;
 using System.Text;
 using System.Xml.Serialization;
 using Finance.Model;
+using Xamarin.Forms;
 
 namespace Finance.ViewModel
 {
@@ -36,6 +38,23 @@ namespace Finance.ViewModel
             //        Blog = (Posts)serializer.Deserialize(reader);
             //    }
             //}
+
+            Blog = new Posts();
+            Blog.Items = new ObservableCollection<Item>()
+            {
+                new Item()
+                {
+                    Title = "Imagen 1",
+                    Description = "Description of image 1",
+                    Image = ImageSource.FromResource("Finance.Images.img1.jpeg")
+                },
+                new Item()
+                {
+                    Title = "Imagen 2",
+                    Description = "Description of image 2",
+                    Image = ImageSource.FromResource("Finance.Images.img2.jpeg")
+                }
+            };
         }
 
         private void OnPropertyChanged(string propertyName)
