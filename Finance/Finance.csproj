@@ -17,5 +17,15 @@
     <Folder Include="ViewModel\" />
     <Folder Include="Model\" />
     <Folder Include="View\Behaviors\" />
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Images\" />
+    <None Remove="Images\img1.jpeg" />
+    <None Remove="Images\img2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\img1.jpeg" />
+    <EmbeddedResource Include="Images\img2.jpeg" />
   </ItemGroup>
 </Project>

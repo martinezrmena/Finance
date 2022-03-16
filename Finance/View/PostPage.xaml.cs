@@ -18,7 +18,7 @@ namespace Finance.View
             InitializeComponent();
             Xamarin.Forms.PlatformConfiguration.iOSSpecific.Page.SetUseSafeArea(this, true);
 
-            webView.Source = item.ItemLink;
+            webView.Source = "https://stackoverflow.com/questions/52793957/xamarin-forms-display-image-from-embedded-resource-using-xaml";
         }
     }
 }
