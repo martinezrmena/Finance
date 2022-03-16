@@ -24,7 +24,7 @@
         <ListView BindingContext="{StaticResource vm}"
                   SeparatorVisibility="None"
                   HasUnevenRows="true"
-                  ItemsSource="{Binding Blog.Channel.Items}">
+                  ItemsSource="{Binding Blog.Items}">
             <ListView.Behaviors>
                 <behaviors:ListViewBehavior/>
             </ListView.Behaviors>
@@ -35,13 +35,13 @@
                                Padding="0"
                                Margin="10">
                             <StackLayout>
-                                <Image Source="{Binding Enclosure.Url}"
+                                <Image Source="{Binding Image}"
                                        HeightRequest="200"
                                        Aspect="AspectFill"/>
                                 <Label Text="{Binding Title}"
                                        Margin="20,0"
                                        Style="{StaticResource smallTitleLabel}"/>
-                                <Label Text="{Binding Creator}"
+                                <Label Text="{Binding Description}"
                                        Margin="20,0,20,10"
                                        Style="{StaticResource normalLabel}"/>
                             </StackLayout>
