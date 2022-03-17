@@ -29,6 +29,13 @@
             {
               "client_id": "142888529612-lcafjgqfb6hjpa8jup0jv0jva9082tf8.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "142888529612-9mv4b5bu43k7r0det3t7365h0vjieiub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmartinez.Finance"
+              }
             }
           ]
         }
