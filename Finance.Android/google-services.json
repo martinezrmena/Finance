@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142888529612",
+    "project_id": "finance-1f8af",
+    "storage_bucket": "finance-1f8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142888529612:android:ccfe4b0c65e4e8615e9c69",
+        "android_client_info": {
+          "package_name": "com.rmartinez.Finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142888529612-lcafjgqfb6hjpa8jup0jv0jva9082tf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRCuI5_DsqEJNwW8KaVyifEmQo0LayGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142888529612-lcafjgqfb6hjpa8jup0jv0jva9082tf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
