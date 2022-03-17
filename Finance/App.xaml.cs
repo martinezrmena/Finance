@@ -5,6 +5,7 @@ using Finance.View;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Crashes;
 using Microsoft.AppCenter.Analytics;
+using Plugin.FirebasePushNotification;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Finance
@@ -16,6 +17,13 @@ namespace Finance
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
+
+            CrossFirebasePushNotification.Current.OnTokenRefresh += Current_OnTokenRefresh;
+        }
+
+        private void Current_OnTokenRefresh(object source, FirebasePushNotificationTokenEventArgs e)
+        {
+            System.Diagnostics.Debug.WriteLine($"Token :{e.Token}");
         }
 
         protected async override void OnStart()

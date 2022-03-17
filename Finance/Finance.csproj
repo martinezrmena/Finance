@@ -14,6 +14,8 @@
     <PackageReference Include="Microsoft.AppCenter" Version="4.5.0" />
     <PackageReference Include="Microsoft.AppCenter.Crashes" Version="4.5.0" />
     <PackageReference Include="Microsoft.AppCenter.Analytics" Version="4.5.0" />
+    <PackageReference Include="Plugin.FirebasePushNotification" Version="3.3.10" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.1" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="View\" />
@@ -29,6 +31,8 @@
     <None Remove="Microsoft.AppCenter" />
     <None Remove="Microsoft.AppCenter.Crashes" />
     <None Remove="Microsoft.AppCenter.Analytics" />
+    <None Remove="Plugin.FirebasePushNotification" />
+    <None Remove="Xamarin.Essentials" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Images\img1.jpeg" />
