@@ -180,5 +180,8 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="GoogleService-Info.plist" />
+    <BundleResource Include="Resources\icon%401x.png" />
+    <BundleResource Include="Resources\icon%402x.png" />
+    <BundleResource Include="Resources\icon%403x.png" />
   </ItemGroup>
 </Project>
