@@ -6,21 +6,10 @@
              x:Class="Finance.View.MainPage"
              Title="Finance">
 
-    <NavigationPage.TitleView>
-        <StackLayout Orientation="Horizontal"
-                     VerticalOptions="Center"
-                     HorizontalOptions="Center"
-                     Spacing="10">
-            <Image Source="icon.png"/>
-            <Label VerticalOptions="Center"
-                   FontSize="20"
-                   FontAttributes="Bold"
-                   Text="Finance"/>
-        </StackLayout>
-    </NavigationPage.TitleView>
-    
     <ContentPage.Resources>
         <ResourceDictionary>
+            <Color x:Key="androidAccent">#A4C639</Color>
+            <Color x:Key="iOSAccent">#0088CC</Color>
             <vm:MainVM x:Key="vm"/>
             <Style TargetType="Label" x:Key="smallTitleLabel">
                 <Setter Property="FontSize" Value="15"/>
@@ -33,6 +22,20 @@
             </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center"
+                     Spacing="10">
+            <Image Source="icon.png"/>
+            <Label VerticalOptions="Center"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="{OnPlatform Android={StaticResource androidAccent}, iOS={StaticResource iOSAccent}, Default=Black}"
+                   Text="Finance"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
     
     <ContentPage.Content>
         <ListView BindingContext="{StaticResource vm}"
