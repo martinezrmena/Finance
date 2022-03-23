@@ -20,6 +20,7 @@
     <Folder Include="Model\" />
     <Folder Include="View\Behaviors\" />
     <Folder Include="Images\" />
+    <Folder Include="Helper\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Images\" />
@@ -27,6 +28,7 @@
     <None Remove="Images\img2.jpeg" />
     <None Remove="Microsoft.AppCenter" />
     <None Remove="Microsoft.AppCenter.Crashes" />
+    <None Remove="Helper\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Images\img1.jpeg" />
